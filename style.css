@@ -1,0 +1,16 @@
+.pattern {
+    background: #72b0e6;
+    background-repeat: repeat;
+    background-image: none;
+    background-image: url('./img/pattern.png');
+    background-repeat: repeat-x;
+    height: 11rem;   
+}
+
+.logo {
+    background-position: bottom;
+    height: 40%;
+    margin-top: 6rem;
+    margin-left: 1rem;
+}
+
