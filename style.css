@@ -14,3 +14,30 @@
     margin-left: 1rem;
 }
 
+.editor {
+    color: #1693b9;
+}
+
+.yellow-text {
+    background-color: #ffff00;
+}
+
+.table {
+    text-align: left;
+}
+
+.table-space {
+    width: 11rem;
+}
+
+.bg-blue {
+    background-color: #1693b9;
+}
+
+.white-text {
+    color: #ffffff
+}
+
+.bg-aqua {
+    background-color: aqua;
+}
