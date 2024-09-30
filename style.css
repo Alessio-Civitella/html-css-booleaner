@@ -42,3 +42,13 @@
     background-color: aqua;
 }
 
+.grey-text {
+    color: grey;
+}
+
+.text-img {
+    position: absolute;
+    left: 1rem;
+    font-weight: bold;
+    color: white;
+}
